@@ -2,11 +2,11 @@ bin
 obj
 Log
 *.suo
-*csproj.user
 .*.swp
-*.resharper*
 _ReSharper*
-
-#project-specific
 *.log
 Hoptoad.config
+*.docstates
+*.user
+/src/packages/
+*.nupkg
